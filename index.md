@@ -4,7 +4,7 @@ title: Following the Light
 
 # Following the Light
 
-随光前行 · 灵修与默想
+跟随真光 · 灵修与默想
 
 ---
 
