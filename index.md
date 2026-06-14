@@ -5,7 +5,7 @@ title: 首页
 
 # Following the Light
 
-跟随真光 · 灵修与默想
+随光前行 · 灵修与默想
 
 ---
 
