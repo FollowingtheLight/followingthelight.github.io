@@ -3,7 +3,6 @@ title: "惟有基督是我异象"
 date: 2026-06-13
 author: 恩典姐妹
 ---
- <button onclick="var u=new SpeechSynthesisUtterance(document.body.innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button> 
 
 
 无论是生是死，总叫基督在我身上照常显大。（腓1：20）
@@ -17,7 +16,4 @@ author: 恩典姐妹
 如果一个人的异象不是主自己，那么，他明白再多关于神的真理，知道再多属灵的知识，他与主仍然没有真实的关系。如果主不是我们唯一的追求、目标和方向，即使我们作再多的服侍，我们所作的也与主没有任何关系。主必须成为我的生命，掌管我、充满我、引导我。
 
 主，愿你越来越成形在我心里，成为我的异象，掌管我的心思意念，言语行为，使我在大小事情上只叫你在我身上照常显大。
-
-
-
-
+ <button onclick="var u=new SpeechSynthesisUtterance(document.querySelector('.post-content').innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button> 
