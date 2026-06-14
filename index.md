@@ -1,5 +1,6 @@
 ---
-title: Following the Light
+layout: home
+title: 首页
 ---
 
 # Following the Light
