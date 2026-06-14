@@ -2,12 +2,8 @@ layout: default
 
 <article>
 
-<div>
+<div>{{ content }}</div>
 
-{{ content }}
-
-</div>
-
-{% include read-aloud.html %}
+<button onclick="var u=new SpeechSynthesisUtterance(document.body.innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button>
 
 </article>
