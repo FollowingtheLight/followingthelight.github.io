@@ -3,7 +3,7 @@ title: "惟有基督是我异象"
 date: 2026-06-13
 author: 恩典姐妹
 ---
-
+ <button onclick="var u=new SpeechSynthesisUtterance(document.body.innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button> 
 
 
 无论是生是死，总叫基督在我身上照常显大。（腓1：20）
