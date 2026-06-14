@@ -1,0 +1,13 @@
+layout: default
+
+<article>
+
+<div>
+
+{{ content }}
+
+</div>
+
+{% include read-aloud.html %}
+
+</article>
