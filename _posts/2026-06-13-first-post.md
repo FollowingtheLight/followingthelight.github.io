@@ -4,24 +4,33 @@ date: 20v26-06-13
 author: 恩典姐妹
 ---
 
- ![十字架](https://raw.githubusercontent.com/followingthelight/followingthelight.github.io/main/%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)
+<!-- 顶部图片 -->
+< img src="你的图片链接.jpg" width="100%">
 
+<!-- 图片和音频之间的间距 (3个换行) -->
+<br><br><br>
 
-
-
- <audio controls>
+<!-- 音频播放器 (已设置为宽度100%) -->
+<audio controls style="width: 100%;">
   <source src="https://followingthelight.github.io/惟有基督是我异象.mp3" type="audio/mpeg">
   您的浏览器不支持 audio 元素。
 </audio>
- 
+
+<!-- 音频和标题之间的间距 (3个换行) -->
+<br><br><br>
+
+<!-- 居中的标题部分 -->
 <div align="center">
 <b>惟有基督是我异象</b>
 <br>
 <b>恩典姐妹</b>
 </div>
 
+<!-- 标题和正文之间的间距 (1个换行) -->
 <br>
 
+<!-- 正文开始 -->
+无论是生是死...
 无论是生是死，总叫基督在我身上照常显大。（腓 1:20）
 
 一说到异象，很多人以为异象就是神要我们作某个事工或者完成某个使命，还有人认为所谓异象就是看见一个图画，或者看见超自然的现象等等，其实，这些都是对异象错误的认识。圣经说的异象不是作事工，也不是看见图画，真正的异象与事工、使命、个人经历等没有任何关系。真正的异象是基督自己——只有基督才是我们真正的异象。
