@@ -7,3 +7,16 @@ layout: default
 <button onclick="var u=new SpeechSynthesisUtterance(document.body.innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button>
 
 </article>
+<style>
+  /* 强制给文章内容的段落增加间距 */
+  .post-content p {
+    margin-bottom: 1.5em !important; /* 这里控制行间距大小，数字越大越宽 */
+    line-height: 1.8 !important;     /* 这里控制行高，让文字不那么密集 */
+  }
+  
+  /* 如果上面的类名没生效，尝试用这个通用的 */
+  article p, .markdown-body p {
+    margin-bottom: 1.5em !important;
+    line-height: 1.8 !important;
+  }
+</style>
