@@ -4,17 +4,19 @@ date: 20v26-06-13
 author: 恩典姐妹
 ---
 
-![十字架](https://raw.githubusercontent.com/followingthelight/followingthelight.github.io/main/%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)
+![十字架](https://raw.githubusercontent.com/followingthelight/followingthelight.github.io/main/%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)  
+
 
 
 <audio controls>
   <source src="https://followingthelight.github.io/惟有基督是我异象.mp3" type="audio/mpeg">
   您的浏览器不支持 audio 元素。
-</audio>
+</audio>  
 
 
 
-<div align="center"><b>惟有基督是我异象</b><br><b>恩典姐妹</b></div>
+<div align="center"><b>惟有基督是我异象</b><br><b>恩典姐妹</b></div>  
+
 
 
 无论是生是死，总叫基督在我身上照常显大。（腓 1:20）
