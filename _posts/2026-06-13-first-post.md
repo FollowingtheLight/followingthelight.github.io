@@ -1,9 +1,12 @@
 ---
 title: "今日灵修：惟有基督是我异象"
-date: 2026-06-13
+date: 20v26-06-13
 author: 恩典姐妹
 ---
 
+ src="/十字架.jpg" 
+
+ 
 <div style="text-align:center; font-weight:bold;">惟有基督是我异象</div>
 <div style="text-align:center; font-weight:bold;">恩典姐妹</div>
 
