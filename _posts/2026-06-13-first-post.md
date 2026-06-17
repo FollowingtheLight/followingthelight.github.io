@@ -20,3 +20,8 @@ author: 恩典姐妹
 
 主，愿你越来越成形在我心里，成为我的异象，掌管我的心思意念，言语行为，使我在大小事情上只叫你在我身上照常显大。
 
+<hr>
+<p style="text-align:center;">若文章对你有帮助，欢迎赞赏 ☕</p >
+<div style="text-align:center;">
+< img src="/赞赏.jpg" alt="赞赏码" width="180">
+</div>
