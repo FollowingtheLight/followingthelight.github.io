@@ -9,11 +9,9 @@ author: 恩典姐妹
 https://followingthelight.github.io/惟有基督是我异象.mp3
  
 <div style="text-align:center; font-weight:bold;">惟有基督是我异象</div>
-<div style="text-align:center; font-weight:bold;">恩典姐妹
+<div style="text-align:center; font-weight:bold;">恩典姐妹</div>
 
-</div>
-
-
+  
 
 无论是生是死，总叫基督在我身上照常显大。（腓1：20）
 
