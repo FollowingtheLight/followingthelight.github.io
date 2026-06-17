@@ -23,5 +23,5 @@ author: 恩典姐妹
 <hr>
 <p style="text-align:center;">若文章对你有帮助，欢迎赞赏 ☕</p >
 <div style="text-align:center;">
-< img src="/赞赏码.jpg" alt="赞赏码" width="180">
+<img src="/赞赏码.jpg" alt="赞赏码" width="180">
 </div>
