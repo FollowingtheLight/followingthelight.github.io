@@ -3,3 +3,7 @@ description: 跟随真光 · 灵修与默想
 theme: minima
 show_excerpts: true
 .plugins: [jekyll-include-cache]
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
