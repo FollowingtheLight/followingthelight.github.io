@@ -13,8 +13,7 @@ https://followingthelight.github.io/惟有基督是我异象.mp3
 
 <p>&nbsp;</p >
 
-无论是生是死…
-…
+
 无论是生是死，总叫基督在我身上照常显大。（腓1:20）
 </div>
 
