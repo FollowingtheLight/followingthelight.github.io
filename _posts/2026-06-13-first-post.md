@@ -1,8 +1,12 @@
 ---
-title: "惟有基督是我异象"
+title: "今日灵修；惟有基督是我异象"
 date: 2026-06-13
 author: 恩典姐妹
 ---
+
+"<div style="text-align:center; font-weight:bold;">"惟有基督是我异象
+恩典姐妹"</div>
+
 
 
 无论是生是死，总叫基督在我身上照常显大。（腓1：20）
