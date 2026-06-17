@@ -4,8 +4,7 @@ date: 2026-06-13
 author: 恩典姐妹
 ---
 
-"<div style="text-align:center; font-weight:bold;">"惟有基督是我异象
-恩典姐妹"</div>
+"<div style="text-align:center; font-weight:bold;">"惟有基督是我异象"</div>
 
 
 
