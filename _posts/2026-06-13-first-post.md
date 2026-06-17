@@ -4,8 +4,7 @@ date: 20v26-06-13
 author: 恩典姐妹
 ---
 
- src="/十字架.jpg" 
-
+ ![十字架](https://raw.githubusercontent.com/followingthelight/followingthelight.github.io/main/%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)
  
 <div style="text-align:center; font-weight:bold;">惟有基督是我异象</div>
 <div style="text-align:center; font-weight:bold;">恩典姐妹</div>
