@@ -4,7 +4,7 @@ date: 20v26-06-13
 author: 恩典姐妹
 ---
 
-< img src="十字架.jpg" width="100%">
+< img src="十字架.jpg"  width="100%">
 
 <br><br>
 
