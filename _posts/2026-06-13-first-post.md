@@ -8,7 +8,7 @@ author: 恩典姐妹
 
 https://followingthelight.github.io/惟有基督是我异象.mp3
  
-<div style="text-align:center; font-weight:bold;">惟有基督是我异象</div>
+<div align="center"><b>惟有基督是我异象</b>
 <div align="center"><b>恩典姐妹</b></div>
 
 <p>&nbsp;</p >
