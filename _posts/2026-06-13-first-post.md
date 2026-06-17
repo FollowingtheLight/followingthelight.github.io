@@ -6,7 +6,7 @@ author: 恩典姐妹
 
  ![十字架](https://raw.githubusercontent.com/followingthelight/followingthelight.github.io/main/%E5%8D%81%E5%AD%97%E6%9E%B6.jpg)
 
-  controls src="https://惟有基督是我异象.mp3"></audio>
+https://followingthelight.github.io/惟有基督是我异象.mp3
  
 <div style="text-align:center; font-weight:bold;">惟有基督是我异象</div>
 <div style="text-align:center; font-weight:bold;">恩典姐妹</div>
