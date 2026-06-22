@@ -2,6 +2,7 @@
 title: "今日灵修：惟有基督是我异象"
 date: 20v26-06-13
 author: 恩典姐妹
+categories: 灵修
 ---
 
 ![十字架](https://followingthelight.github.io/十字架.jpg)
