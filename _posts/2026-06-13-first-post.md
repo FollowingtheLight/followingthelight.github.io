@@ -5,6 +5,8 @@ author: 恩典姐妹
 categories: 灵修
 ---
 
+**分类：**[灵修](/categories/灵修/)
+
 ![十字架](https://followingthelight.github.io/十字架.jpg)
 
   
