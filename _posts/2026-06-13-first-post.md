@@ -40,7 +40,7 @@ categories: 灵修
 主，愿你越来越成形在我心里，成为我的异象，掌管我的心思意念，言语行为，使我在大小事情上只叫你在我身上照常显大。
 
 <hr>
-<p style="text-align:center;">长按下面赞赏码可支持我的原创写作 ☕</p >
+<p style="text-align:center;">长按下面赞赏码可支持我的原创写作 </p >
 <div style="text-align:center;">
 <img src="/赞赏码.jpg" alt="赞赏码" width="180">
 </div>
