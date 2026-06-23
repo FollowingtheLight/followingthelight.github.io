@@ -1,19 +1,18 @@
 layout: default
 
 <article>
-  <div>{{ content }}</div>
-
-{% comment %}
-  暂时注释分类，解决构建报错，部署成功后再放开
+  <!-- 分类放在文章顶部，想要放文末就把这段挪到{{ content }}下面 -->
   {% if page.categories.size > 0 %}
   <p class="post-category">
     分类：
     {% for c in page.categories %}
-      <a href="{{ site.baseurl }}/categories/{{ c | slugify }}/">{{ c }}</a>
+      <!-- 适配你根目录xxx.md分类页，编译后xxx.html -->
+      <a href="{{ site.baseurl }}/{{ c | slugify }}.html">{{ c }}</a>
     {% endfor %}
   </p>
   {% endif %}
-{% endcomment %}
+
+  <div>{{ content }}</div>
 </article>
 
 <style>
@@ -64,12 +63,12 @@ layout: default
     margin: 20px 0;
   }
 
-  /* 分类区域整体间距 */
+  /* 分类区域间距 */
   .post-category {
     margin-top: 30px;
   }
 
-  /* 分类链接按钮美化 */
+  /* 分类按钮样式 */
   .post-category a {
     display: inline-block;
     padding: 3px 10px;
