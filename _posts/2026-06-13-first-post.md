@@ -5,7 +5,6 @@ author: 恩典姐妹
 categories: 灵修
 ---
 
-[【点击这里查看全部灵修文章】](https://followingthelight.github.io/lingxiu/)
 
 ![十字架](https://followingthelight.github.io/十字架.jpg)
 
@@ -39,7 +38,10 @@ categories: 灵修
 主，愿你越来越成形在我心里，成为我的异象，掌管我的心思意念，言语行为，使我在大小事情上只叫你在我身上照常显大。
 
 
+---
+
 [【点击这里查看全部灵修文章】](https://followingthelight.github.io/lingxiu/)
+
 
 <hr>
 <p style="text-align:center;">长按下面赞赏码可支持我的原创写作 </p >
