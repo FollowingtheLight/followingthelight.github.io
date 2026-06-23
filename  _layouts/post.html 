@@ -3,14 +3,17 @@ layout: default
 <article>
   <div>{{ content }}</div>
 
+{% comment %}
+  暂时注释分类，解决构建报错，部署成功后再放开
   {% if page.categories.size > 0 %}
   <p class="post-category">
     分类：
     {% for c in page.categories %}
-      <a href="/categories/{{ c | slugify }}/">{{ c }}</a>
+      <a href="{{ site.baseurl }}/categories/{{ c | slugify }}/">{{ c }}</a>
     {% endfor %}
   </p>
   {% endif %}
+{% endcomment %}
 </article>
 
 <style>
