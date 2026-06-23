@@ -5,6 +5,8 @@ author: 恩典姐妹
 categories: 灵修
 ---
 
+[【点击这里查看全部灵修文章】](https://followingthelight.github.io/lingxiu/)
+
 ![十字架](https://followingthelight.github.io/十字架.jpg)
 
   
