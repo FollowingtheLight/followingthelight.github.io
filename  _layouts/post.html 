@@ -1,21 +1,26 @@
 layout: default
 
 <article>
+  <div>{{ content }}</div>
 
-<div>{{ content }}</div>
-
-<button onclick="var u=new SpeechSynthesisUtterance(document.body.innerText);u.lang='zh-CN';speechSynthesis.speak(u)">🔊 朗读</button>
-
+  {% if page.categories.size > 0 %}
+  <p class="post-category">
+    分类：
+    {% for c in page.categories %}
+      <a href="/categories/{{ c | slugify }}/">{{ c }}</a>
+    {% endfor %}
+  </p>
+  {% endif %}
 </article>
 
 <style>
-  /* 1. 强制拉大所有段落的下间距 */
+  /* 段落间距、行高优化 */
   article p {
     margin-bottom: 25px !important; 
     line-height: 1.8 !important;
   }
 
-  /* 2. 针对作者名（通常是 strong, b, div 或 h3）强制加下间距 */
+  /* 标题、加粗元素底部间距 */
   article strong, 
   article b, 
   article div[style], 
@@ -23,11 +28,56 @@ layout: default
   article h2, 
   article h3 {
     margin-bottom: 20px !important;
-    display: block !important; /* 确保它独占一行并产生间距 */
   }
 
-  /* 3. 防止第一段被主题特殊处理（很多主题会把第一个 p 的 margin-top 设为 0） */
+  /* 首段顶部留白 */
   article p:first-of-type {
     margin-top: 20px !important; 
+  }
+
+  /* 列表、引用、代码块美化 */
+  article ul,
+  article ol {
+    margin: 16px 0 24px 2em;
+    line-height: 1.7;
+  }
+  article blockquote {
+    border-left: 4px #666 solid;
+    padding-left: 16px;
+    margin: 20px 0;
+    color: #555;
+  }
+  article pre {
+    padding: 12px 16px;
+    background: #f6f6f6;
+    border-radius: 6px;
+    overflow-x: auto;
+    margin: 20px 0;
+  }
+
+  /* MP3音频播放器样式 */
+  article audio {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  /* 分类区域整体间距 */
+  .post-category {
+    margin-top: 30px;
+  }
+
+  /* 分类链接按钮美化 */
+  .post-category a {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 0 6px;
+    background: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  .post-category a:hover {
+    background: #333;
+    color: #fff;
   }
 </style>
