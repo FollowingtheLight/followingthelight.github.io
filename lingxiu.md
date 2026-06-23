@@ -1,12 +1,9 @@
 ---
 layout: page
-title: "灵修"
-permalink: /lingxiu/
+title: "灵修分类"
+permalink: /categories/devotion/
 ---
 
-这里是灵修文章列表：
-
-- [今日灵修：惟有基督是我异象](/2026/06/13/first-post.html)
-- [今日灵修：上帝的真理与魔鬼的谎言](/2026/06/22/真理与谎言.html)
-- [今日灵修：脱下与穿上](/2026/06/17/脱下与穿上.html)
-- [今日灵修：处境显明人的内心](/2026/06/14/处境显明人的内心.html)
+{% for post in site.categories.devotion %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
