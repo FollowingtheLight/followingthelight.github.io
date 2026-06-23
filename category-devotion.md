@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "灵修"
-permalink: /categories/devotion/
+permalink: /lingxiu/
 ---
-{% for post in site.categories.devotion %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+
+灵修文章页面
