@@ -5,10 +5,6 @@ author: 恩典姐妹
 categories: 灵修
 ---
 
-<style>
-p { margin-bottom: 1.5em; line-height: 1.8; }
-</style>
-
 ![十字架](https://followingthelight.github.io/十字架.jpg)
 
   
