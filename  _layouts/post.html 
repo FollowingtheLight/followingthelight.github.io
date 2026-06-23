@@ -1,12 +1,10 @@
 layout: default
 
 <article>
-  <!-- 分类放在文章顶部，想要放文末就把这段挪到{{ content }}下面 -->
   {% if page.categories.size > 0 %}
   <p class="post-category">
     分类：
     {% for c in page.categories %}
-      <!-- 适配你根目录xxx.md分类页，编译后xxx.html -->
       <a href="{{ site.baseurl }}/{{ c | slugify }}.html">{{ c }}</a>
     {% endfor %}
   </p>
@@ -16,13 +14,10 @@ layout: default
 </article>
 
 <style>
-  /* 段落间距、行高优化 */
   article p {
     margin-bottom: 25px !important; 
     line-height: 1.8 !important;
   }
-
-  /* 标题、加粗元素底部间距 */
   article strong, 
   article b, 
   article div[style], 
@@ -31,13 +26,9 @@ layout: default
   article h3 {
     margin-bottom: 20px !important;
   }
-
-  /* 首段顶部留白 */
   article p:first-of-type {
     margin-top: 20px !important; 
   }
-
-  /* 列表、引用、代码块美化 */
   article ul,
   article ol {
     margin: 16px 0 24px 2em;
@@ -56,19 +47,13 @@ layout: default
     overflow-x: auto;
     margin: 20px 0;
   }
-
-  /* MP3音频播放器样式 */
   article audio {
     width: 100%;
     margin: 20px 0;
   }
-
-  /* 分类区域间距 */
   .post-category {
     margin-top: 30px;
   }
-
-  /* 分类按钮样式 */
   .post-category a {
     display: inline-block;
     padding: 3px 10px;
