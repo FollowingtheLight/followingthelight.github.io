@@ -2,8 +2,9 @@ title: 恩典在召唤
 description: 恩典姐妹 · 原创写作
 theme: minima
 show_excerpts: true
-.plugins: [jekyll-include-cache]
+plugins: [jekyll-include-cache]
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+force rebuild
