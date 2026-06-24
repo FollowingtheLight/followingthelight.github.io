@@ -6,10 +6,18 @@
     <style>
         body { font-family: sans-serif; padding: 40px; text-align: center; }
         h1 { color: #333; }
+        .post-item { margin: 30px auto; max-width: 700px; text-align: left; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+        .post-item h2 a { color: #0366d6; text-decoration: none; }
+        .post-item span { color: #666; font-size: 14px; }
     </style>
 </head>
 <body>
-    <h1>恩典在召唤</h1>
-    <p>终于搭建成功啦！</p>
+    {% for post in site.posts %}
+      <div class="post-item">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+        {{ post.excerpt }}
+      </div>
+    {% endfor %}
 </body>
 </html>
