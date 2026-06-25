@@ -1,7 +1,7 @@
 @import "minima";
 
-/* 解决段落间距问题 */
-.post-content p {
-  margin-bottom: 2em !important; /* 段间距，数值越大越远 */
-  line-height: 1.8 !important;   /* 行间距 */
+/* 只调整段落底部间距，行高保持原样 */
+.post-content p,
+.page-content p {
+  margin-bottom: 2.5em !important; /* 只改段间距，行高维持 1.8 不变 */
 }
