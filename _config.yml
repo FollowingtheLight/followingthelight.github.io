@@ -1,2 +1,12 @@
 title: 恩典在召唤
+description: 恩典姐妹·原创写作
 theme: minima
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
