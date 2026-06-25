@@ -16,3 +16,8 @@ kramdown:
 # 导航菜单（关键）
 header_pages:
   - index.html
+
+custom_css: |
+  <style>
+    .post-content p { margin-bottom: 2em !important; line-height: 1.8 !important; }
+  </style>
