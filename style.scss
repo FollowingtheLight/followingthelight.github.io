@@ -1,6 +1,7 @@
 @import "minima";
 
+/* 解决段落间距问题 */
 .post-content p {
-  margin-bottom: 1.5em;
-  line-height: 1.8;
+  margin-bottom: 2em !important; /* 段间距，数值越大越远 */
+  line-height: 1.8 !important;   /* 行间距 */
 }
