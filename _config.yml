@@ -15,4 +15,4 @@ kramdown:
 
 # 导航菜单（关键）
 header_pages:
-  - index.md
+  - index.html
