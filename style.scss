@@ -1,7 +1,8 @@
 @import "minima";
 
-/* 只调整段落底部间距，行高保持原样 */
+/* 调整段落间距和字体大小 */
 .post-content p,
 .page-content p {
-  margin-bottom: 2.5em !important; /* 只改段间距，行高维持 1.8 不变 */
+  margin-bottom: 4em !important;
+  font-size: 1.1em !important;
 }
