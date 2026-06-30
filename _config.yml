@@ -2,6 +2,7 @@ title: 恩典在召唤
 description: 恩典姐妹·原创写作
 theme: minima
 show_excerpts: true
+excerpt_separator: "<!-- more -->"  # <-- 移到这里（和 show_excerpts 对齐）
 
 plugins:
   - jekyll-feed
