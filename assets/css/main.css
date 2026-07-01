@@ -1,0 +1,5 @@
+/* 只改首页里标了「合集」的文章，其他文章（比如真理那篇）完全不受影响 */
+.post-excerpt img {
+  display: block !important;
+  margin-top: 30px !important; /* 这个数字越大，图片离顶部日期越远，不满意回头改数字就行 */
+}
