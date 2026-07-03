@@ -1,4 +1,5 @@
-.post.categories-合集 .post-content img {
-    display: block !important;
-    margin-bottom: 30px !important;
+/* 强制锁定所有文章正文内的段落 */
+div.post-content > p {
+  margin-bottom: 30px !important;
+  display: block !important;
 }
