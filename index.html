@@ -1,5 +1,32 @@
 ---
-layout: home
+layout: default
 title: 首页
 permalink: /
 ---
+
+<h1>{{ page.title }}</h1>
+
+{% assign pinned_posts = site.posts | where: "pinned", true %}
+{% assign normal_posts = site.posts | where_exp: "post", "post.pinned != true" %}
+
+{% if pinned_posts.size > 0 %}
+  <h2>置顶文章</h2>
+  <ul>
+    {% for post in pinned_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+<h2>最新文章</h2>
+<ul>
+  {% for post in normal_posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
